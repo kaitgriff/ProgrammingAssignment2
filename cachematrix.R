@@ -1,5 +1,4 @@
-## Put comments here that give an overall description of what your
-## functions do
+#Two Functions: Caching the mean of a vector and inverse of a matrix 
 
 #This function creates a matrix that can cache its inverse
 
